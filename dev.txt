@@ -1,0 +1,2 @@
+first create random datasets of future economic data
+    parameters should be years, percentage of asset allocation (stocks, bonds) and a correction factor
