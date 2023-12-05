@@ -1,1 +1,3 @@
 push.txt
+__pycache__/
+*.pyc
